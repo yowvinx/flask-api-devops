@@ -1,0 +1,27 @@
+[
+  {
+    "id": "101",
+    "name": "Vivo X-10",
+    "classification": "Tablet"
+  },
+  {
+    "id": "102",
+    "name": "Asus ROG",
+    "classification": "Gaming Laptop"
+  },
+  {
+    "id": "201",
+    "name": "Samsung Galaxy Tab",
+    "classification": "Tablet"
+  },
+  {
+    "id": "202",
+    "name": "Lenovo Legion",
+    "classification": "Gaming Laptop"
+  },
+  {
+    "id": "203",
+    "name": "Lenovo Thinkpad",
+    "classification": "Site Laptop"
+  }
+]
